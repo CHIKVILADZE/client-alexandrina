@@ -1,0 +1,27 @@
+{
+  "header": {
+    "title": "Мой Todos",
+    "spanDark": "Темный режим",
+    "spanLight": "Светлый режим"
+  },
+  "table": {
+    "title": "Заголовок",
+    "description": "Описание",
+    "status": "Статус"
+  },
+
+  "buttons": {
+    "addTodo": "Добавить Todo",
+    "editTodo": "Редактировать",
+    "deleteTodo": "Удалить"
+  },
+
+  "modal": {
+    "editTodo": "Изменить Todo",
+    "editTitle": "Изменить Заголовок",
+    "editDescription": "Изменить описание",
+    "editStatus": "Изменить статус",
+    "saveChanges": "Сохранить изменения",
+    "close": "Закрыть"
+  }
+}

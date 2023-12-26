@@ -1,0 +1,28 @@
+{
+  "header": {
+    "title": "My Todos",
+    "spanDark": "Dark Mode",
+    "spanLight": "Light Mode"
+  },
+
+  "table": {
+    "title": "title",
+    "description": "description",
+    "status": "status"
+  },
+
+  "buttons": {
+    "addTodo": "Add Todo",
+    "editTodo": "Edit",
+    "deleteTodo": "Delete"
+  },
+
+  "modal": {
+    "editTodo": "Edit Todo",
+    "editTitle": "Edit Title",
+    "editDescription": "Edit Description",
+    "editStatus": "Edit Status",
+    "saveChanges": "Save Changes",
+    "close": "Close"
+  }
+}
